@@ -18,52 +18,38 @@ This website.
 
 First game while a student at AIE.
 
-<img src="https://i.imgur.com/M99VTA3.png" alt="Rouge 1" height = "500">
-
-<img src="https://i.imgur.com/HR02kZj.png" alt="Rouge 2" height = "500">
+<img src="https://i.imgur.com/M99VTA3.png" width="560" alt="Rouge 1" >
+<img src="https://i.imgur.com/HR02kZj.png" width="560" alt="Rouge 2" >
 
 <b>Features</b>
 
-Ascii Graphics
-
-Leveling
-
-Melee
-
-Arrows that penetrate walls
-
-Death
-
-Saving
-
-Multiple enemy types
-
-Collision with walls
-
-An Editor to make your own levels!
-
++Ascii Graphics
++Grid based movement
++Leveling and basic stats
++Melee and Ranged combat
++Death
++Saving
++Multiple enemy types
++An Editor to make your own levels!
 
 [Source](https://github.com/randevlper/ConsoleRougelike)
-
 
 
 <h1><b>Botes2D</b></h1>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IIxxfb1Gwi4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-Repository specifically for the Bote game soonTM.
-
 [Source](https://github.com/randevlper/GameMath/releases)
 
-<h1><b>VR Wizard Home</b></h1>
 
-Helped the artist at our school add some interaction to the scene in the Unreal Engine.
+
+<h1><b>VR Wizard Home</b></h1>
 
 [Source](https://github.com/Ladouken/WizHome)
 
 
 
-<h1><b>VR Sleepy Trucker</b></h1>
+<h1><b>PSC AIE Game Jam - Sleepy Trucker</b></h1>
 
 <img src="https://img.itch.zone/aW1hZ2UvMTkwNzk4Lzk0NTEzMy5wbmc=/original/nsb7ew.png" alt="Truck" height = "300">
 
