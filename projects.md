@@ -23,14 +23,14 @@ First game while a student at AIE.
 
 <b>Features</b>
 
-+Ascii Graphics
-+Grid based movement
-+Leveling and basic stats
-+Melee and Ranged combat
-+Death
-+Saving
-+Multiple enemy types
-+An Editor to make your own levels!
++ Ascii Graphics
++ Grid based movement
++ Leveling and basic stats
++ Melee and Ranged combat
++ Death
++ Saving
++ Multiple enemy types
++ An Editor to make your own levels!
 
 [Source](https://github.com/randevlper/ConsoleRougelike)
 
