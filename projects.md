@@ -14,11 +14,15 @@ This website.
 
 <h1><b>Linked To AIE</b></h1>
 
+A clone of the original legend of zelda as the first Unity 2D project with other students. 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/trdI2fzZO0o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [Itch.io](https://randevlper.itch.io/link-to-aie)
 
 <h1><b>Not Near</b></h1>
+
+A third person bullet hell made in three weeks for my first project at AIE using the Unity Engine.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dbBJYzxIEro" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
