@@ -30,6 +30,14 @@ A clone of the original legend of zelda as the first Unity2D project with other 
 
 [Itch.io](https://randevlper.itch.io/link-to-aie)
 
+<h1><b>AI of Kingdoms</b></h1>
+
+Basic AI RTS sim of three kingdoms fighting for power.
+
+<img src="/assets/img/kingdom.png" width="560" alt="kingdom" >
+
+[Github](https://github.com/randevlper/ai-of-kingdoms)
+
 <h1><b>Not Near</b></h1>
 
 A third person bullet hell made in three weeks for my first project at AIE using the Unity Engine.
