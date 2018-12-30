@@ -6,17 +6,23 @@ permalink: /Projects/
 
 <h2>Current Projects</h2>
 
+<h1><b>Unannounced Unity 2D Game</b></h1>
+
+More information will be posted soon! It will be Chumpette Visual's biggest game!
+
+<h2>Past Projects</h2>
+
+<h1><b>Lonely Bullet</b></h1>
+
+Help Rhea fight space monsters to save her girlfriend.
+
+<iframe src="https://itch.io/embed/323984" width="552" height="167" frameborder="0"></iframe>
+
 <h1><b>Love.exe</b></h1>
 
 A Visual Novel about Randie the robot dealing with his sudden typing attacks.
 
 <iframe src="https://itch.io/embed/283658?border_width=4&amp;bg_color=f1dae6&amp;fg_color=222222&amp;link_color=fa5c5c&amp;border_color=bebebe" width="558" height="173" frameborder="0"></iframe>
-
-<h1><b>Unreal Engine C++ Multiplayer</b></h1>
-
-A project to learn how to do Multiplayer in Unreal Engine.
-
-<h2>Past Projects</h2>
 
 <h1><b>Idol Demo</b></h1>
 
