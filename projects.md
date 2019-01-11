@@ -17,12 +17,30 @@ More information will be posted soon! It will be Chumpette Visual's biggest game
 Help Rhea fight space monsters to save her girlfriend.
 
 <iframe src="https://itch.io/embed/323984" width="552" height="167" frameborder="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/63WQ5Ilqkjk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 <h1><b>Love.exe</b></h1>
 
 A Visual Novel about Randie the robot dealing with his sudden typing attacks.
 
 <iframe src="https://itch.io/embed/283658?border_width=4&amp;bg_color=f1dae6&amp;fg_color=222222&amp;link_color=fa5c5c&amp;border_color=bebebe" width="558" height="173" frameborder="0"></iframe>
+
+<h1><b>UE4 Rocket Fist Prototype</b></h1>
+
+Two different character controllers that show off animation for one and a custom state character controller for the other.
+
+<iframe src="https://itch.io/embed/327259" width="552" height="167" frameborder="0"></iframe>
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:58.537%;"><iframe src="https://streamable.com/s/lwq4i/izptpv" frameborder="0" width="60%" height="60%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+<h1><b>Anti-Chan</b></h1>
+
+A little puzzle game in Unity playing with physics and character control.
+
+<iframe src="https://itch.io/embed/355203" width="552" height="167" frameborder="0"></iframe>
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.071%;"><iframe src="https://streamable.com/s/b8ano/xqjztq" frameborder="0" width="60%" height="60%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 <h1><b>Idol Demo</b></h1>
 
