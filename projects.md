@@ -6,9 +6,12 @@ permalink: /Projects/
 
 <h2>Current Projects</h2>
 
-<h1><b>Unannounced Unity 2D Game</b></h1>
+<h1><b>Memoria Cafe</b></h1>
 
 More information will be posted soon! It will be Chumpette Visual's biggest game!
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hello! Here is quick look at the new game we&#39;ll be developing. We hope that you enjoy these high-quality concepts!<a href="https://twitter.com/hashtag/gamedev?src=hash&amp;ref_src=twsrc%5Etfw">#gamedev</a> <a href="https://twitter.com/hashtag/gameart?src=hash&amp;ref_src=twsrc%5Etfw">#gameart</a><br>❤️❤️ <a href="https://t.co/tJAX7C5Wqa">pic.twitter.com/tJAX7C5Wqa</a></p>&mdash; 💖Chumpette (•ө•)♡💖 (@ChumpetteV) <a href="https://twitter.com/ChumpetteV/status/1082799459195449344?ref_src=twsrc%5Etfw">January 9, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <h2>Past Projects</h2>
 
