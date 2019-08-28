@@ -25,7 +25,7 @@ Venture into Koishi's mind in this atmospheric platformer.
 
 A 2d game engine framwork.
 
-[Source] (https://github.com/randevlper/gold-engine)
+[Source](https://github.com/randevlper/gold-engine)
 
 <h1><b>Lonely Bullet</b></h1>
 
