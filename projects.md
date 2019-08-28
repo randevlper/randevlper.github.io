@@ -15,6 +15,18 @@ More information will be posted soon! It will be Chumpette Visual's biggest game
 
 <h2>Past Projects</h2>
 
+<h1><b>Paper Koishi</b></h1>
+
+Venture into Koishi's mind in this atmospheric platformer.
+
+<iframe src="https://itch.io/embed/441488?bg_color=41694d&amp;link_color=4f6781&amp;border_color=193d3f" width="552" height="167" frameborder="0"></iframe>
+
+<h1><b>Gold-Engine</b></h1>
+
+A 2d game engine framwork.
+
+[Source] (https://github.com/randevlper/gold-engine)
+
 <h1><b>Lonely Bullet</b></h1>
 
 Help Rhea fight space monsters to save her girlfriend.
